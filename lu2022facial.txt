@@ -1,0 +1,9 @@
+@article{lu2022facial,
+  title={Facial image inpainting for big data using an effective attention mechanism and a convolutional neural network},
+  author={Lu, Xiaoman and Lu, Ran and Zhao, Wenhao and Ma, Erbin},
+  journal={Frontiers in Neurorobotics},
+  volume={16},
+  pages={1111621},
+  year={2022},
+  publisher={Frontiers}
+}
