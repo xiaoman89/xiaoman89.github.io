@@ -1,0 +1,8 @@
+@inproceedings{lu2022image,
+  title={Image Inpainting Generation Adversative Network Based on Attention Mechanism},
+  author={Lu, Xiaoman and Lu, Ran and Zhao, Wenhao and Ma, Erbin and Zhu, Hegui},
+  booktitle={2022 IEEE 5th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE)},
+  pages={344--348},
+  year={2022},
+  organization={IEEE}
+}
