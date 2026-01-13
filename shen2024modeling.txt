@@ -1,0 +1,10 @@
+@article{shen2024modeling,
+  title={Modeling the emitted carbon dioxide and monoxide gases in the gasification process using optimized hybrid machine learning models},
+  author={Shen, Baohua and Lu, Xiaoman and Jiang, Juan and Li, Daoguo},
+  journal={Chemical Product and Process Modeling},
+  volume={19},
+  number={6},
+  pages={20230045},
+  year={2024},
+  publisher={De Gruyter}
+}
