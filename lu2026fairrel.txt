@@ -1,0 +1,11 @@
+@inproceedings{lu2026fairrel,
+  title = {{FairReL}: Deepfake Detection using Fairness-Aware Representation Learning},
+  author = {Lu, Xiaoman and Li, Jiaqi and Zheng, Shuntian and Chen, Huiping and Guan, Yu},
+  booktitle = {British Machine Vision Conference (BMVC)},
+  year = {2026},
+  note = {Accepted},
+  eprint = {2608.28777},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2608.28777}
+}
