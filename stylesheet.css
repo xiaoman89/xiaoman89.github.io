@@ -140,3 +140,70 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.profile-section {
+  padding: 16px 20px;
+  line-height: 1.55;
+}
+
+.profile-section h2 {
+  margin: 0 0 12px;
+}
+
+.profile-section p {
+  margin: 0;
+}
+
+.teaching-list {
+  display: grid;
+  gap: 14px;
+}
+
+.teaching-course a {
+  font-weight: 700;
+}
+
+.teaching-role {
+  display: inline-block;
+  margin-left: 8px;
+  color: #666;
+  font-size: 13px;
+}
+
+.profile-section .teaching-dates {
+  margin-top: 4px;
+  color: #666;
+  font-size: 13px;
+}
+
+.teaching-dates a {
+  font-size: inherit;
+}
+
+.guest-lecture {
+  margin-top: 18px;
+  padding-top: 14px;
+  border-top: 1px solid #eee;
+}
+
+.guest-lecture h3 {
+  margin: 0 0 6px;
+  font-size: 14px;
+}
+
+.lecture-title {
+  font-style: italic;
+}
+
+.misc-section {
+  padding-top: 8px;
+  padding-bottom: 24px;
+}
+
+@media (max-width: 520px) {
+  .teaching-role {
+    display: block;
+    margin-left: 0;
+    margin-top: 2px;
+  }
+}
