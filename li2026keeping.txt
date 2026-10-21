@@ -1,0 +1,10 @@
+@inproceedings{li2026keeping,
+  title = {Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding},
+  author = {Li, Jiaqi and Zheng, Shuntian and Shen, Yixian and Huang, Jia-Hong and Lu, Xiaoman and Ni, Minzhe and Guan, Yu},
+  booktitle = {European Conference on Computer Vision (ECCV)},
+  year = {2026},
+  eprint = {2603.05663},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CV},
+  url = {https://arxiv.org/abs/2603.05663}
+}

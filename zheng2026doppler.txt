@@ -1,0 +1,10 @@
+@inproceedings{zheng2026doppler,
+  title = {Doppler Prompting for Stable {mmWave}-based Human Pose Estimation},
+  author = {Zheng, Shuntian and Li, Jiaqi and Lu, Xiaoman and He, Shuai and Guan, Yu},
+  booktitle = {Proceedings of the 43rd International Conference on Machine Learning},
+  year = {2026},
+  eprint = {2605.13233},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.HC},
+  url = {https://icml.cc/virtual/2026/poster/63865}
+}
